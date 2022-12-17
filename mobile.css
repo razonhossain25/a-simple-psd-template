@@ -1,0 +1,10 @@
+body{
+    background-color: cadetblue;
+}
+
+.review-s{
+    
+    display: flex;
+    flex-direction: column;
+   
+}
